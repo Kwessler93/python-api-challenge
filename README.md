@@ -5,13 +5,13 @@ In this challenge we compared the weather for different parts of the world based
 
 The following scatter plots show the comparison for each category:
 
-output_data/image-1.png
+![temp vs. lat scatter](output_data/image-1.png)
 
-output_data/image-2.png
+![temp vs. humidity scatter](output_data/image-2.png)
 
-output_data/image-3.png
+![temp vs. cloudiness scatter](output_data/image-3.png)
 
-output_data/image-4.png
+![temp vs. wind speed](output_data/image-4.png)
 
 THe following scatter plots with linear regression lines further compare these categories breaking them down by northern and southern hemisphere:
 
